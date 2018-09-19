@@ -1,0 +1,14 @@
+{
+  "name": "language-battle-pet-script",
+  "version": "0.0.1",
+  "description": "Battle Pet Script language support in Atom",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/Aelexe/language-battle-pet-script",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  }
+}
